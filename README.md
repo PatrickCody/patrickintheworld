@@ -1,4 +1,4 @@
-## PLUG (Perth Linux User Group) website
+## PATRICK IN THE WORLD SITE
 
 ### Development
 
